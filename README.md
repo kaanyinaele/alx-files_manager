@@ -1,14 +1,4 @@
 0x04. Files manager
-Back-endJavaScriptES6NoSQLMongoDBRedisNodeJSExpressJSKue
-
-    Weight: 1
-    Project to be done in teams of 2 people (your team: Uc David)
-    Project will start Sep 26, 2024 6:00 AM, must end by Oct 3, 2024 6:00 AM
-    Checker will be released at Sep 28, 2024 12:00 AM
-    Manual QA review must be done (request it when you are done with the project)
-    An auto review will be launched at the deadline
-
-This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
 The objective is to build a simple platform to upload and view files:
 
